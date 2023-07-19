@@ -4,7 +4,7 @@ El presente proyecto contiene todos los elementos de front-end referidos en el c
 
 * PC-NET
 
-La web es de una casa de COMPUTACION, cumple con los siguientes parametros de evaluacion:
+La web es de una casa de COMPUTACION, cumple con los siguientes parametros de evaluacion...
 
 * Poseer al menos 3 paginas html:
 
